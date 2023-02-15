@@ -17,3 +17,4 @@ PRB = RB*0
 PF = PCR + PRI + PRB
 #Salida
 print("PCR:",PCR," PRI:",PRI, " PRB:",PRB, " Datos totales:",PF)
+print("-------------------------------------------------------")
